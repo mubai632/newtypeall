@@ -1,7 +1,7 @@
 baseurl = "https://newtype.mubai632.top"
-title = "Site Title"
+title = "newtype"
 theme = "pulp"
-canonifyurls = false
+canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
@@ -11,17 +11,14 @@ hasCJKLanguage = true
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Your Name"
+    author = "Welcome to mubai's Blog"
     avatar = "avatar.jpg"
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
-    description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
-    """
-    publicationYear = "2019"
-    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
-    # singlePageDateFormat = "January 2, 2006"
+    description = """"""
+    publicationYear = ""
+    # listPageDateFormat = "" 
+    # singlePageDateFormat = ""
     # custom_css = ["/css/custom.css"]
     # custom_js = ["/js/custom.js"]
 
@@ -41,19 +38,19 @@ hasCJKLanguage = true
     identifier = "twitter"
     # name = "Twitter"
     pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/username"
+    url = "https://twitter.com/mubai632"
     weight = 20
 
 [[menu.main]]
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    url = "https://github.com/mubai632"
     weight = 30
 
 [[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:mafubin632@gmail.com"
     weight = 40
