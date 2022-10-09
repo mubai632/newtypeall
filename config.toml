@@ -1,7 +1,7 @@
-baseurl = "https://example.com/"
+baseurl = "https://newtype.mubai632.top"
 title = "Site Title"
 theme = "pulp"
-canonifyurls = true
+canonifyurls = false
 hasCJKLanguage = true
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
