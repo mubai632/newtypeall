@@ -11,11 +11,11 @@ hasCJKLanguage = true
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Welcome to mubai's Blog"
+    author = "欢迎来到穆佰的博客"
     avatar = "avatar.jpg"
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
-    description = """"""
+    description = """文章仅个人使用，转载请标明出处"""
     publicationYear = ""
     # listPageDateFormat = "" 
     # singlePageDateFormat = ""
